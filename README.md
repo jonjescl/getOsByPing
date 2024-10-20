@@ -1,7 +1,7 @@
 # getOsByPing
 Identificar el sistema operativo mediante el TTL
 
-Dar oermisos de ejecución:
+Dar permisos de ejecución:
 chmod +x getOs.sh
 
 Modo de uso:
