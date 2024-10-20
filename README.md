@@ -2,7 +2,7 @@
 Identificar el sistema operativo mediante el TTL
 
 Dar permisos de ejecución:
-chmod +x getOs.sh
+sudo chmod +x getOs.sh
 
 Modo de uso:
 ./getOs.sh <Ip>
